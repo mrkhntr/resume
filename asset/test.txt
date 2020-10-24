@@ -1,0 +1,322 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+left=2cm, top=1cm, right=2cm, bottom=1.8cm, footskip=.5cm
+
+
+[fonts/]
+
+
+
+
+
+
+
+
+
+
+
+
+awesomedarkblue
+
+
+
+
+
+
+acvSectionColorHighlightfalse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MarkHunter
+Full Time Software Engineering Positions May 2020
+
+
+
+603 498 3082
+hunter.mark@husky.neu.edu
+mark5595.github.io
+mark5595
+markalexhunter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[C]
+
+
+
+
+  
+  Mark A Hunter   ·   Résumé
+  Updated: 
+
+
+
+
+
+
+
+
+
+Education
+
+
+
+
+
+
+
+  
+    B.S. in Computer Science and Computer Engineering 
+    Northeastern University 
+    Boston, MA 
+    May 2020 
+    3.99 
+     
+        Programming Languages, 
+        Software Development, 
+        Object-Oriented Design,
+        Artificial Intelligence, 
+        Robotics Sensing and Navigation, 
+   	 	Networks and Distributed Systems,
+        Computer Systems,
+     	Digital Logic and Computer Organization,
+     	Algorithms, 
+     	Linear Systems,
+        Calculus 3,
+     	Diff. Equations and Linear Algebra
+    
+     
+        NUacm,
+        NU Tau Beta Pi,
+        College of Eng. Peer Mentor,
+        NUHKSA,
+        IEEE
+    
+     
+      Three Half Year Work Experiences (Internships) as part of
+      study at Northeastern see 'Experiences'
+    
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+  
+    Programming 
+    
+    	    JavaScript,
+    	    TypeScript,
+        Java,
+    	    Python,
+   	    HTML CSS,
+    	    C++,
+    	    C,
+    	    Racket/Scheme
+     
+
+  
+    Technologies 
+    
+		AngularJS,
+		Vue,
+		React, 
+		AWS,
+ 		Git,
+		JUnit, 
+		Jest,
+		POSIX,
+		Spring MVC,
+		Node,
+		Express,
+		PostgreSQL,
+		DynamoDB,
+		Serverless 
+     
+
+
+
+
+
+
+
+Experiences
+
+
+
+
+
+ 
+
+
+
+
+
+
+  
+     Full Stack Software Engineer Co-Op
+     Certain Lending
+     San Francisco, CA
+     Jul. - Dec. 2019
+     
+       
+			Engineering on a two-tiered stack consisting of TypeScript, Node.js, Express and PostgreSQL backend with a Vue.js front-end working at a real-estate financing fintech startup
+			Developed technical systems and standards for processing and storage of personally identifiable information (PII) across the stack
+			Built integrations with services such as TransUnion to automate and organize the underwriting process
+       		Lead engineer on a cross-functional technical and business team responsible for enhancing mortgage brokering, servicing and application user-interfaces, work-flow management software, and operational processes
+       		Architected a task management dashboard and associated training which provided insight to managers of workloads and statuses of mortgages in the pipeline
+       
+     
+
+	 
+    Amazon Robotics Full Stack Software Engineer Co-Op  
+    Amazon 
+    North Reading, MA 
+    Jul. – Dec. 2018 
+    
+    		 
+    		    Created web-based tools that saved Amazon time/money by providing insight of warehouse floor health through developing metrics, visualizations and instantaneous alerting 
+    			Performed full-stack web and service development leveraging frameworks such as AWS, AngularJS, Guice, and Spring MVC on a small fast-moving agile team 
+    			Enhanced code quality by increasing test coverage of a key package by 3X, providing code reviews, and refactoring existing code  			
+    		 
+    
+
+
+  	
+	VI Chip Applications Engineer Co-Op  
+    Vicor 
+    Andover, MA 
+    Jan. – Jun. 2017 
+    
+     
+        Collaborated with a top tier customer to perform research and present my findings of Vicor’s data-center power product on client's application
+        
+        Performed system level validation of multiple powertrains including memory, nest and core rails bench-marking control, telemetry, efficiency and thermal conditions
+        Developed test plans and automated them with Python resulting in a over 10X speedup
+                
+
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Honors  Awards
+
+
+
+
+
+
+
+  
+    MIT Connected Care Hackathon 
+    Placed top 5 with simulated AR heads up display  
+    Apr. 2017 
+    
+  
+    Microsoft More Personal Computing Hackathon  
+    VicHealth Winner for IoT health-care 
+    Oct. 2015 
+
+  
+    Rotary Club 
+    Portsmouth Rotary Scholarship for Excellence in Academics and 
+    Community Service 
+    Jun. 2015 
+
+
+
+
+Interests
+
+
+
+
+
+
+
+
+Automation, Programming Languages, Distributive Computing, Traveling, Biking  
+
+
+
+
+
+
+
+
+
+
+
+
