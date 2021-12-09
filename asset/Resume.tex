@@ -1,3 +1,4 @@
+% pandoc Resume.tex -f latex -t docx -o resume.docx
 %!TEX TS-program = xelatex
 %!TEX encoding = UTF-8 Unicode
 % Awesome CV LaTeX Template for CV/Resume
@@ -69,13 +70,13 @@
 \email{markhunter2005@gmail.com}
 \homepage{mark5595.github.io}
 %\github{mark5595}
-%\linkedin{markalexhunter}
+\linkedin{markalexhunter}
 % \gitlab{gitlab-id}
 % \stackoverflow{SO-id}{SO-name}
 % \twitter{@twit}
 % \skype{skype-id}
 % \reddit{reddit-id}
-% \extrainfo{extra informations}
+%\extrainfo{extra informations}
 
 % \quote{``Be the change that you want to see in the world."}
 
@@ -99,8 +100,8 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
+\input{resume/summary.tex}
 \input{resume/education.tex}
-%\input{resume/summary.tex}
 \input{resume/skills.tex}
 \input{resume/experience.tex}
 \input{resume/honors.tex}
