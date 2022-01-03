@@ -173,9 +173,9 @@
 
 \newfontfamily\headerfontlight[
   Path=\@fontdir,
-  UprightFont=*-Thin,
-  ItalicFont=*-ThinItalic,
-  BoldFont=*-Medium,
+  UprightFont=*-Regular,
+  ItalicFont=*-Italic,
+  BoldFont=*-Black,
   BoldItalicFont=*-MediumItalic,
 ]{Roboto}
 
@@ -578,11 +578,18 @@
 
       \multicolumn{2}{L{\textwidth}}{
     \begin{cvitems}
-    \item {\descriptionstyle{ \textit{Coursework:} #6}}
-    \item { \descriptionstyle{\textit{Extracurriculars:} #7}}
+    \item {\descriptionstyle{ \textit{Extracurriculars:} #6}}
+ %   \item { \descriptionstyle{\textit{Extracurriculars:} #7}}
 %    \item { \descriptionstyle{\textit{Co-op:} #8}}
     \end{cvitems}
-
+    \textbf{\entrytitlestyle{Relevant Coursework}}
+        \vspace{4.0mm}
+        \begin{cvitems}
+            \item { \descriptionstyle{\textit{Computer Science:} #7}}
+            \item { \descriptionstyle{\textit{Math:} #8}}
+        
+        \end{cvitems}
+	
     }
 
   \end{tabular*}%
@@ -609,6 +616,7 @@
       \entrypositionstyle{#1} & \entrydatestyle{#4} \\}
     \multicolumn{2}{L{\textwidth}}{\descriptionstyle{#5}}
   \end{tabular*}%
+    \vspace{-6.0mm}
 }
 
 % Define an environment for cvsubentry
@@ -682,7 +690,7 @@
 }{%
   \end{itemize}
   \end{justify}
-  \vspace{-4.0mm}
+%  \vspace{-4.0mm}
 }
 
 
